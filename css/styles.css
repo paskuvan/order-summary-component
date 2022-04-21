@@ -15,3 +15,7 @@ body {
 .txt-center {
     text-align: center;
 }
+
+.p-10 {
+    padding: 10px;
+}
